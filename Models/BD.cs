@@ -34,7 +34,11 @@ public static class BD
             string query ="INSERT INTO Usuarios ";
         }
         }
+    }
+    public static void Atarea()
+    {
 
+        
     }
 
 }

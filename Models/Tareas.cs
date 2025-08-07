@@ -4,7 +4,7 @@ public class Tareas
 private string Titulo;
 private string Descripcion;
 private DateTime Fecha;
-private bool Finalizadad;
+private bool Finalizada;
 
 
 }
