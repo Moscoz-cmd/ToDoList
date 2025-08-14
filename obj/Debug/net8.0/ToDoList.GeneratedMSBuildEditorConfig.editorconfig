@@ -19,12 +19,17 @@ build_property.MSBuildProjectDirectory = Z:\ToDoList
 build_property._RazorSourceGeneratorDebug = 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 [Z:/ToDoList/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 =======
 [Z:/ToDoList/Views/Home/registro.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Ryby5jc2h0bWw=
 >>>>>>> de5ee96a6970b151bb1ddd9a29a6f8f5c799c5d2
+=======
+[Z:/ToDoList/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
+>>>>>>> 5271f954fc8d66b7442efcaee0fd398f6d8acf69
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/ToDoList/Views/Shared/_Layout.cshtml]

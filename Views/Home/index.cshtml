@@ -1,0 +1,18 @@
+﻿@{
+    ViewData["Title"] = "Registro";
+}
+
+<div class="Registro">
+    <h1>Registro</h1>
+    <form action='@Url.Action("Index", "Home")' method="POST" enctype="multipart/form-data">
+    <input type= "text" name="Nombre"/> <br>
+    <br>
+    <input type="text" name="Apellido"/> <br>
+    <br>
+    <input type="email" name="Email"/><br>
+    <br>
+    <input type="password" name="Contraseña"/><br>
+    <br>
+    <input type="file" name="Foto"/>
+    </form>
+</div>

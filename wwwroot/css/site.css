@@ -13,7 +13,12 @@ body {
   margin: 10px;
   padding: 10px;
 }
-
+.Registro form{
+  width: 10%;
+  height: 40%;
+  margin-left: 45%;
+  
+}
 
 footer {
   margin-top: 10px;
