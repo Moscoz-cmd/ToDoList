@@ -18,8 +18,8 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = Z:\ToDoList
 build_property._RazorSourceGeneratorDebug = 
 
-[Z:/ToDoList/Views/Home/registro.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxyZWdpc3Ryby5jc2h0bWw=
+[Z:/ToDoList/Views/Home/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxpbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [Z:/ToDoList/Views/Shared/_Layout.cshtml]
