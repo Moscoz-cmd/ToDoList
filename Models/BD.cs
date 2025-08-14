@@ -5,14 +5,14 @@ namespace ToDoList.Models;
 // private static string_connectionString= @"Server=localhost; DataBase=NombreBase; Integrated Security=True; TrustServerCertificate=True;";
 public static class BD
 {
-    private static string_connectionString == @"Server=localhost; DataBase=NombreBase; Integrated Security=True; TrustServerCertificate=True;";
+    private static string _connectionString = @"Server=localhost; DataBase=NombreBase; Integrated Security=True; TrustServerCertificate=True;";
 
 
 
     public static Usuario Login(string Username, string Contraseña)
     {
         Usuario usuario= new Usuario();
-        using(SqlConnection connection = new SqlConnection(string_connectionString))
+        using(SqlConnection connection = new SqlConnection(_connectionString))
 
         {
             string query = "SELECT * FROM Usuario WHERE Username = @pUsername AND Contraseña = @pContraseña";
