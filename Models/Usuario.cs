@@ -1,12 +1,13 @@
 namespace ToDoList.Models;
 public class Usuario
 {
- private string Nombre;
+    public int IdUsuario;
+ public string Nombre;
  public string Username;
- private string Contraseña;
- private string  Apellido;
- private string Foto;
- private DateTime ultimoLogin;  
+ public string Contraseña;
+ public string  Apellido;
+ public string Foto;
+ public DateTime ultimoLogin;  
 
 
 }
