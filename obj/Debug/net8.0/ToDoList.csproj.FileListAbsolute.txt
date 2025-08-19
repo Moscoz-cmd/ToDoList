@@ -67,11 +67,6 @@ Z:\ToDoList\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog
 Z:\ToDoList\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
 Z:\ToDoList\obj\Debug\net8.0\staticwebassets.build.json
 Z:\ToDoList\obj\Debug\net8.0\staticwebassets.development.json
-Z:\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.ToDoList.Microsoft.AspNetCore.StaticWebAssets.props
-Z:\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.build.ToDoList.props
-Z:\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ToDoList.props
-Z:\ToDoList\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ToDoList.props
-Z:\ToDoList\obj\Debug\net8.0\staticwebassets.pack.json
 Z:\ToDoList\obj\Debug\net8.0\scopedcss\bundle\ToDoList.styles.css
 Z:\ToDoList\obj\Debug\net8.0\ToDoList.csproj.Up2Date
 Z:\ToDoList\obj\Debug\net8.0\ToDoList.dll
@@ -79,3 +74,10 @@ Z:\ToDoList\obj\Debug\net8.0\refint\ToDoList.dll
 Z:\ToDoList\obj\Debug\net8.0\ToDoList.pdb
 Z:\ToDoList\obj\Debug\net8.0\ToDoList.genruntimeconfig.cache
 Z:\ToDoList\obj\Debug\net8.0\ref\ToDoList.dll
+Z:\ToDoList\obj\Debug\net8.0\rpswa.dswa.cache.json
+Z:\ToDoList\bin\Debug\net8.0\ToDoList.staticwebassets.endpoints.json
+Z:\ToDoList\obj\Debug\net8.0\rjimswa.dswa.cache.json
+Z:\ToDoList\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+Z:\ToDoList\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+Z:\ToDoList\obj\Debug\net8.0\staticwebassets.build.json.cache
+Z:\ToDoList\obj\Debug\net8.0\staticwebassets.build.endpoints.json
