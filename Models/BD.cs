@@ -53,7 +53,6 @@ public static class BD
     public static void Mtarea(Tareas tarea)
     {
         using(SqlConnection connection = new SqlConnection(_connectionString))
-
         {
             string query = "Update Tareas where tarea = @ptarea";
             tarea = connection.QueryFirstOrDefault<Tareas>(query, new {pIdTareas = tarea.IdTareas, pTitulo = tarea.Titulo, pDescripcion = tarea.Descripcion, pFecha = tarea.Fecha, pFinalizada = tarea.Finalizada});
@@ -90,10 +89,11 @@ public static class BD
     }
     public static void FinTarea(int IdTarea)
     {
-        string query= "UPDATE Finalizada from Tareas WHERE IdTarea = @pIdTarea";
         using(SqlConnection connection = new SqlConnection(_connectionString))
+
         {
-            connection.Execute(query, new(Finalizada = true));
+            string query = "Update Finalizada FROM Tareas where IdTarea= @pIdTarea ";
+            connection.Execute(query, new {pIdTarea = IdTarea});
         }
     }
 }
